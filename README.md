@@ -1,2 +1,2 @@
-# react-sample-AtomicDesign-GlobalState
+# react-sample-atmicDesign
 Created with CodeSandbox
